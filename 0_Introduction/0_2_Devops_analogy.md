@@ -60,3 +60,6 @@ A silo appears when a group of people don't share information, goals, tools, pri
 ## Conclusion
 Finally, the devops loop can be translated or visualized into the following:
 ![Translate](assets/intro_7.png)
+
+A zoomed in view:
+![Translate](assets/intro_8.png)

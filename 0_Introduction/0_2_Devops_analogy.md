@@ -48,4 +48,15 @@
 - So this is how Agile was better than waterfall model.
 
 ## Drawback of Agile
-- Silos problem
+### Silos problem
+A silo appears when a group of people don't share information, goals, tools, priorities or processes with other groups. It occurs when teams are isolated.
+
+## DevOps
+- Devops is **NOT** a replacement of Alige, rather it's more like an improvement to it.
+- Devops can reduce the Silos problem since a Devops team will now handle the build, deployment, maintainance and monitoring part of a project. So if at all say there is any error while building or deploying, the Devops team will know how to fix it rather than depending on some other team which may have been in a Silo.
+
+> According to me, *Silos* cannot be completely eradicated, it will stay in some or the other way in a project, at the end of the day I feel a project grows and flourishes with time and improved team co-ordination by having same motivation, same mindset and same set of goals :)
+
+## Conclusion
+Finally, the devops loop can be translated or visualized into the following:
+![Translate](assets/intro_7.png)
